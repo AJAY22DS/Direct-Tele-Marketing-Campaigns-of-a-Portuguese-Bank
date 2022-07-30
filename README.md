@@ -3,7 +3,7 @@
 The data is related with direct marketing campaigns of a Portuguese banking institution. 
 The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (or not) subscribed.
 
-Algorithm Implemented are:- 
+#Algorithm Implemented are:- 
 
 1- Logistic regression, 
 
@@ -13,7 +13,7 @@ Algorithm Implemented are:-
 
 4- Artificial Neural Network(ANN).
 
-Input variables:
+# Input variables:
    # bank client data:
    1 - age (numeric)
   
