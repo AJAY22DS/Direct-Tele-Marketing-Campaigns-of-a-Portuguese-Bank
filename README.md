@@ -3,7 +3,7 @@
 The data is related with direct marketing campaigns of a Portuguese banking institution. 
 The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be (or not) subscribed.
 
-#Algorithm Implemented are:- 
+# Algorithm Implemented are:- 
 
 1- Logistic regression, 
 
@@ -53,7 +53,7 @@ The marketing campaigns were based on phone calls. Often, more than one contact 
   16 - poutcome: outcome of the previous marketing campaign (categorical: "unknown","other","failure","success")
 
 
-Output variable (desired target):
+# Output variable (desired target):
 
 17 - y - has the client subscribed a term deposit? (binary: "yes","no")
 
